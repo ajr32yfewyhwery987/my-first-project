@@ -4,4 +4,3 @@ A simple C program that prints a greeting message.
 ``` bash
 gcc hello . c -o hello
 ./ hello
-```
